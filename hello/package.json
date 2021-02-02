@@ -1,0 +1,24 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "hello node first npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests required\"",
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "430",
+    "node",
+    "demo"
+  ],
+  "engines": {
+    "node": "12.18.3",
+    "npm": "6.14.6"
+  },
+  "author": "oliver",
+  "license": "ISC",
+  "dependencies": {
+    "nanoid": "^3.1.20"
+  }
+}
